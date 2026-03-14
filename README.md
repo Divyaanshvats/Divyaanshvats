@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI and Machine Learning enthusiast currently pursuing <br>B.Tech in Mathematics and Computing at Rajiv Gandhi Institute of <br>Petroleum Technology (RGIPT). I enjoy building intelligent systems that <br>combine vision, language, and structured data to solve real world <br>problems. Through internships and projects, I have worked on <br>computer vision, anomaly detection, and multi-modal AI pipelines. <br>I am particularly interested in representation learning, generative AI, <br>and developing scalable AI systems.
+I am an AI and Machine Learning enthusiast currently pursuing B.Tech in Mathematics and Computing at Rajiv Gandhi Institute of Petroleum Technology (RGIPT). I enjoy building intelligent systems that combine vision, language, and structured data to solve real world problems. Through internships and projects, I have worked on computer vision, anomaly detection, and multi-modal AI pipelines. I am particularly interested in representation learning, generative AI, and developing scalable AI systems.
 
 
 ## 🌐 Socials:
